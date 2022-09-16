@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanpalrajpurohit&label=Profile%20views&color=0e75b6&style=flat" alt="dhanpalrajpurohit" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanpalrajpurohit" alt="dhanpalrajpurohit" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/dhanpalraj1998" target="blank"><img src="https://img.shields.io/twitter/follow/dhanpalraj1998?logo=twitter&style=for-the-badge" alt="dhanpalraj1998" /></a> </p>
+
 - 🔭 I’m currently working on **Python-Django based project.**
 
 - 🌱 I’m currently learning **Machine learning**
@@ -32,3 +36,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanpalrajpurohit&show_icons=true&locale=en&layout=compact" alt="dhanpalrajpurohit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanpalrajpurohit&show_icons=true&locale=en" alt="dhanpalrajpurohit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanpalrajpurohit&" alt="dhanpalrajpurohit" /></p>
