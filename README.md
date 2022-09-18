@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanpal Singh</h1>
 <h3 align="center">A passionate Software Developer from Surat, India</h3>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0d78e063230683.5aa9bd41627d0.gif" />
+<img src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanpalrajpurohit&label=Profile%20views&color=0e75b6&style=flat" alt="dhanpalrajpurohit" /> </p>
 
