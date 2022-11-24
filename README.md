@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **Python, Django, ReactJS**
 
-- 📫 How to reach me **rajpurohitdhanpal@gmail.com**
-
 - ⚡ Fun fact **I always use light IDE theme.**
 
 ### Blogs posts
